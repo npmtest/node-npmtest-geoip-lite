@@ -19,7 +19,7 @@
 <tspan x="10" y="266">  │ │   └── concat-map@0.0.1 </tspan>
 <tspan x="10" y="282">  │ ├── once@1.4.0 </tspan>
 <tspan x="10" y="298">  │ └── path-is-absolute@1.0.1 </tspan>
-<tspan x="10" y="314">  ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="314">  ├── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="330">  ├── lazy@1.0.11 </tspan>
 <tspan x="10" y="346">  ├── rimraf@2.6.1 </tspan>
 <tspan x="10" y="362">  └─┬ unzip@0.1.11 </tspan>
