@@ -1,6 +1,6 @@
 # npmtest-geoip-lite
 
-#### test coverage for  [geoip-lite (v1.2.0)](https://github.com/bluesmoon/node-geoip)  [![npm package](https://img.shields.io/npm/v/npmtest-geoip-lite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-geoip-lite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-geoip-lite.svg)](https://travis-ci.org/npmtest/node-npmtest-geoip-lite)
+#### basic test coverage for  [geoip-lite (v1.2.0)](https://github.com/bluesmoon/node-geoip)  [![npm package](https://img.shields.io/npm/v/npmtest-geoip-lite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-geoip-lite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-geoip-lite.svg)](https://travis-ci.org/npmtest/node-npmtest-geoip-lite)
 
 #### A light weight native JavaScript implementation of GeoIP API from MaxMind
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-geoip-lite/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-geoip-lite/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-geoip-lite/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-geoip-lite/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-geoip-lite/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-geoip-lite/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-geoip-lite/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-geoip-lite/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-geoip-lite/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-geoip-lite/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-geoip-lite/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-geoip-lite/build/coverage.html/index.html)
 
@@ -108,7 +108,8 @@
         "updatedb": "node scripts/updatedb.js",
         "updatedb-debug": "node scripts/updatedb.js debug"
     },
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
